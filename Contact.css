@@ -1,0 +1,67 @@
+body {
+  background-color: #f1a1c8;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Cambria;
+  background-color: #e23388;
+  padding-right: 437px;
+
+}
+
+
+li a:hover {
+  background-color: black;
+}
+
+h1 {
+  color: aliceblue;
+  padding: 60px;
+  background-color: #e23388;
+  font-family: "Sofia", sans-serif;
+  border: solid white;
+  border-style: dashed;
+}
+
+button {
+  width: auto;
+}
+
+.form {
+  background-color: #e23388;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+
+}
+
+label {
+  color: aliceblue;
+}
+
+h2 {
+  color: aliceblue;
+}
+
+#textBox {
+  width: 300px;
+  height: 100px;
+}

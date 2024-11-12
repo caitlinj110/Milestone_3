@@ -1,0 +1,80 @@
+body {
+    background-color: #f1a1c8;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #e23388;
+
+
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    padding: 14px 16px;
+    padding-right:auto;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-family: Cambria;
+
+}
+
+
+li a:hover {
+    background-color: black;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    padding: 60px;
+    background-color: #e23388;
+    text-align: left;
+    font-family: "Sofia", sans-serif;
+    border-style: dashed;
+    border-color: white;
+
+}
+
+div {
+    background-color: #e23388;
+    color: #e23388;
+    margin-top: 15px;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    background-image: url('/css/aesthetic-pink.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* cover whole area*/
+  
+
+}
+
+img {
+    width: 220px;
+    height: 290px;
+    border: dashed #e23388;
+    border-width: 5px;
+   
+}
+
+#clickme{
+    font-size: 30px;
+}
+#header1{
+    font-size: 50px;
+}
+#header2{
+    font-size: 28px;
+}
+#header3{
+    font-size: 28px;
+}
